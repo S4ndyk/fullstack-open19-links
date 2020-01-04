@@ -10,3 +10,8 @@ Linkit
 - [Maiden tiedot](https://github.com/S4ndyk-fullstack/maiden-tiedot)
 #### Osa 3
 - [Puhelinluettelo backend](https://github.com/S4ndyk-fullstack/puhelinluettelo-backend)
+#### Osa 4
+- [Blogilista backend](https://github.com/S4ndyk-fullstack/blogilista-backend)
+#### Osa 5
+- [Blogilista frontend](https://github.com/S4ndyk-fullstack/bloglist-frontend)
+- [Custom hooks](https://github.com/S4ndyk-fullstack/custom-hooks)
