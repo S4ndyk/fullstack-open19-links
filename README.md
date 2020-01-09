@@ -17,4 +17,4 @@ Linkit
 - [Custom hooks](https://github.com/S4ndyk-fullstack/custom-hooks)
 #### Osa 6
 - [Redux anecdote](https://github.com/S4ndyk-fullstack/redux-anecdotes)
-- [Unicafe redux](https://github.com/S4ndyk-fullstack/redux-anecdotes)
+- [Unicafe redux](https://github.com/S4ndyk-fullstack/unicafe-redux)
