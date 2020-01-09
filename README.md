@@ -18,3 +18,6 @@ Linkit
 #### Osa 6
 - [Redux anecdote](https://github.com/S4ndyk-fullstack/redux-anecdotes)
 - [Unicafe redux](https://github.com/S4ndyk-fullstack/unicafe-redux)
+#### Osa 7
+- [Routed anecdotes](https://github.com/S4ndyk-fullstack/routed-anecdotes)
+- [Bloglist redux](https://github.com/S4ndyk-fullstack/bloglist-redux)
